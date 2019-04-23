@@ -1,0 +1,54 @@
+{
+    "accountNumber": "2334749405",
+    "savingStatus": "ACTIVE",
+    "cardsList": [
+        "4152313302219949",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "goal": {
+        "name": "PRUEBA JAV BCOM",
+        "goalType": "VOLUNTARY",
+        "amount": {
+            "amount": 30000
+        },
+        "initDate": "2019-01-28",
+        "endDate": "2019-09-29",
+        "dateBarrier": "2000-01-01",
+        "percentageBarrier": 0,
+        "marketStudy": [
+            "B",
+            "B"
+        ],
+        "rule": {
+            "typeRule": "SCHED_PERCENT",
+            "percent": 15,
+            "topAmount": {
+                "amount": 500
+            },
+            "round": {
+                "amount": 0
+            },
+            "scheduleAmount": {
+                "amount": 2000.34
+            },
+            "scheduleType": "BIWEEKLY"
+        }
+    },
+    "shaftAccount": {
+        "accountNumber": "1534799461"
+    },
+    "balanceAccumulated": {
+        "amount": 0
+    },
+    "balanceTransit": {
+        "amount": 0
+    }
+}

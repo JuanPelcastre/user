@@ -1,0 +1,34 @@
+{
+    "customerGoals": [
+        {
+            "accountNumber": "2334726138",
+            "secuenceNumber": 1,
+            "savingStatus": "ACTIVE",
+            "fullAccountNumber": "00743607662334726138"
+        },
+        {
+            "accountNumber": "2334727274",
+            "secuenceNumber": 1,
+            "savingStatus": "ACTIVE",
+            "fullAccountNumber": "00743607622334727274"
+        },
+        {
+            "accountNumber": "2334727924",
+            "secuenceNumber": 1,
+            "savingStatus": "ACTIVE",
+            "fullAccountNumber": "00743607612334727924"
+        },
+        {
+            "accountNumber": "2334749405",
+            "secuenceNumber": 1,
+            "savingStatus": "ACTIVE",
+            "fullAccountNumber": "00743607692334749405"
+        },
+        {
+            "accountNumber": "2334749413",
+            "secuenceNumber": 1,
+            "savingStatus": "ACTIVE",
+            "fullAccountNumber": "00743607672334749413"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "accountNumber": "2334726138",
+    "savingStatus": "ACTIVE",
+    "cardsList": [
+        "4152313302219949",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "goal": {
+        "name": "CLIENTE5",
+        "goalType": "VOLUNTARY",
+        "amount": {
+            "amount": 6000
+        },
+        "initDate": "2018-03-14",
+        "endDate": "2018-04-05",
+        "dateBarrier": "2000-01-01",
+        "percentageBarrier": 0,
+        "marketStudy": [
+            "B",
+            "B"
+        ],
+        "rule": {
+            "typeRule": "SCHED_PERCENT",
+            "percent": 15,
+            "topAmount": {
+                "amount": 500
+            },
+            "round": {
+                "amount": 0
+            },
+            "scheduleAmount": {
+                "amount": 2654.49
+            },
+            "scheduleType": "BIWEEKLY"
+        }
+    },
+    "shaftAccount": {
+        "accountNumber": "1534799461"
+    },
+    "balanceAccumulated": {
+        "amount": 2733.39
+    },
+    "balanceTransit": {
+        "amount": 0
+    }
+}

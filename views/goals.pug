@@ -1,0 +1,70 @@
+extends layout
+
+block content
+  h1= title
+  p Lista de urls de test para #{title}
+
+  .mb-2
+    button
+      a(href="https://saving-goals.herokuapp.com/") Home
+
+  .d-none
+    h5 Clientes con lista de metas
+    ul
+      li
+        a(href="https://localhost:3000/savingGoalAccounts/V01/?customerId=91222262") Goals 91222262
+        span &nbsp;https://localhost:3000/savingGoalAccounts/V01/?customerId=91222262
+      li
+        a(href="http://localhost:3000/savingGoalAccounts/V01/?customerId=D0102118") Goals D0102118
+        span &nbsp;https://localhost:3000/savingGoalAccounts/V01/?customerId=D0102118 
+      li
+        a(href="http://localhost:3000/savingGoalAccounts/V01/?customerId=D0102134") Goals D0102134
+        span &nbsp;https://localhost:3000/savingGoalAccounts/V01/?customerId=D0102134 
+      li
+        a(href="http://localhost:3000/savingGoalAccounts/V01/?customerId=D0102136") Goals D0102136
+        span &nbsp;https://localhost:3000/savingGoalAccounts/V01/?customerId=D0102136           
+    hr
+
+    h5 Detalle de metas 
+    ul
+      li 
+        a(href="http://localhost:3000/savingGoalAccounts/V01/2334726138/getGoalDetail/?secuenceNumber=1") Goal detail 2334726138
+      li 
+        a(href="http://localhost:3000/savingGoalAccounts/V01/2334727274/getGoalDetail/?secuenceNumber=1") Goal detail 2334727274
+      li 
+        a(href="http://localhost:3000/savingGoalAccounts/V01/2334727924/getGoalDetail/?secuenceNumber=1") Goal detail 2334727924
+      li 
+        a(href="http://localhost:3000/savingGoalAccounts/V01/2334749405/getGoalDetail/?secuenceNumber=1") Goal detail 2334749405
+  hr  
+
+  h5 Clientes con lista de metas
+  ul
+    li
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=91222262") Goals 91222262
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=91222262
+    li
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=D0102118") Goals D0102118
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=D0102118 
+    li
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=D0102134") Goals D0102134
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=D0102134 
+    li
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=D0102136") Goals D0102136
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/?customerId=D0102136 
+  hr  
+  h5.d-none Detalle de metas            
+  ul.d-none
+    li 
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334726138/getGoalDetail/?secuenceNumber=1") Goal detail 2334726138
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334726138/getGoalDetail/?secuenceNumber=1
+    li 
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334727274/getGoalDetail/?secuenceNumber=1") Goal detail 2334727274
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334727274/getGoalDetail/?secuenceNumber=1
+    li 
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334727924/getGoalDetail/?secuenceNumber=1") Goal detail 2334727924
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334727924/getGoalDetail/?secuenceNumber=1
+    li 
+      a(href="https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334749405/getGoalDetail/?secuenceNumber=1") Goal detail 2334749405
+      span &nbsp;https://saving-goals.herokuapp.com/savingGoalAccounts/V01/2334749405/getGoalDetail/?secuenceNumber=1     
+   
+  
