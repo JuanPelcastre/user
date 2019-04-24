@@ -3,14 +3,12 @@
         {
             "id": 0,
             "nameGoal": "CLIENTE5",
-            "accountNumber": "2334726138",
             "amount": "65000",
             "balanceAccumulated": "60000"
         },
         {
             "id": 1,
             "nameGoal": "MODIFY5",
-            "accountNumber": "2334727274",
             "amount": "3000",
             "balanceAccumulated": "2900"
         }

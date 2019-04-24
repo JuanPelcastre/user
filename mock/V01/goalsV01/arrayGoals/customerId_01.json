@@ -3,98 +3,84 @@
         {
             "id": 0,
             "nameGoal": "CLIENTE5",
-            "accountNumber": "2334726138",
             "amount": "65000",
             "balanceAccumulated": "60000"
         },
         {
             "id": 1,
             "nameGoal": "MODIFY5",
-            "accountNumber": "2334727274",
             "amount": "3000",
             "balanceAccumulated": "2900"
         },
         {
             "id": 2,
             "nameGoal": "BBVA PLAN D0102142",
-            "accountNumber": "2334727924",
             "amount": "9000",
             "balanceAccumulated": "999"
         },
         {
             "id": 3,
             "nameGoal": "PRUEBA JAV BCOM",
-            "accountNumber": "2334749405",
             "amount": "30000",
             "balanceAccumulated": "20000"
         },
         {
             "id": 4,
             "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
             "amount": "38257",
             "balanceAccumulated": "10000"
         },
         {
             "id": 5,
             "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
             "amount": "38257",
             "balanceAccumulated": "20000"
         },
         {
             "id": 6,
             "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
             "amount": "38257",
             "balanceAccumulated": "1222"
         },
         {
             "id": 7,
             "nameGoal": "CLIENTE5",
-            "accountNumber": "2334726138",
             "amount": "6000",
             "balanceAccumulated": "3212"
         },
         {
             "id": 8,
             "nameGoal": "MODIFY5",
-            "accountNumber": "2334727274",
             "amount": "3000",
             "balanceAccumulated": "987"
         },
         {
             "id": 9,
             "nameGoal": "BBVA PLAN D0102142",
-            "accountNumber": "2334727924",
             "amount": "3000",
             "balanceAccumulated": "0"
         },
         {
             "id": 10,
             "nameGoal": "PRUEBA JAV BCOM",
-            "accountNumber": "2334749405",
             "amount": "30000",
             "balanceAccumulated": "0"
         },
         {
             "id": 11,
             "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
             "amount": "38257",
             "balanceAccumulated": "212"
         },
         {
             "id": 12,
             "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
             "amount": "38257",
             "balanceAccumulated": "122"
         },
         {
             "id": 13,
             "nameGoal": "LRKFH",
-            "accountNumber": "2334749413",
             "amount": "38257",
             "balanceAccumulated": "111"
         }
