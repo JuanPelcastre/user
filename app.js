@@ -9,6 +9,8 @@ var goalsRouter = require('./routes/goals');
 
 var mainGoalsV1 = require('./routes/goals/mainGoalsV1');
 
+var mainTsec = require('./routes/tsec/mainTsec');
+
 var app = express();
 
 // view engine setup
@@ -38,6 +40,7 @@ app.use('/', indexRouter);
 app.use('/goals', goalsRouter);
 
 app.use('/savingGoalAccounts', mainGoalsV1);
+app.use('/dashboard', mainTsec);
 
 
 // catch 404 and forward to error handler
