@@ -1,12 +1,12 @@
 {
     "metasJson": [{
         "id": 0,
-        "accountNumber": "",
+        "accountNumber": "6138",
         "savingStatus": "ACTIVE",
         "cardsList": [
             "4152313302219949"
         ],
-        "nameGoal": "Auto",
+        "nameGoal": "CLIENTE5",
         "amount": "6000.00",
         "initDate": "2018-03-14",
         "endDate": "2018-04-05",
@@ -20,13 +20,13 @@
     },
     {
         "id": 1,
-        "accountNumber": "",
+        "accountNumber": "7274",
         "savingStatus": "ACTIVE",
         "cardsList": [
             "4152313302219949"
         ],
-        "nameGoal": "Ropa para la familia",
-        "amount": "7320.00",
+        "nameGoal": "MODIFY5",
+        "amount": "3000.00",
         "initDate": "2018-03-28",
         "endDate": "2018-04-30",
         "typeRule": "SCHED_PERCENT",
@@ -39,12 +39,12 @@
     },
     {
         "id": 2,
-        "accountNumber": "",
+        "accountNumber": "7924",
         "savingStatus": "ACTIVE",
         "cardsList": [
             "4152313302219949"
         ],
-        "nameGoal": "Casa en las lomas",
+        "nameGoal": "BBVA PLAN D0102142",
         "amount": "3000.00",
         "initDate": "2018-04-03",
         "endDate": "2018-04-30",
@@ -58,12 +58,12 @@
     },
     {
         "id": 3,
-        "accountNumber": "",
+        "accountNumber": "9405",
         "savingStatus": "ACTIVE",
         "cardsList": [
             "4152313302219949"
         ],
-        "nameGoal": "Ahorrar simplemente",
+        "nameGoal": "PRUEBA JAV BCOM",
         "amount": "30000.00",
         "initDate": "2019-01-28",
         "endDate": "2019-09-29",
@@ -77,7 +77,7 @@
     },
     {
         "id": 4,
-        "accountNumber": "",
+        "accountNumber": "9413",
         "savingStatus": "ACTIVE",
         "cardsList": [
             "4815153004109199",
