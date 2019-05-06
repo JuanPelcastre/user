@@ -1,88 +1,99 @@
 {
-    "metasJson": [
-        {
-            "id": 0,
-            "nameGoal": "CLIENTE5",
-            "amount": "65000",
-            "balanceAccumulated": "60000"
-        },
-        {
-            "id": 1,
-            "nameGoal": "MODIFY5",
-            "amount": "3000",
-            "balanceAccumulated": "2900"
-        },
-        {
-            "id": 2,
-            "nameGoal": "BBVA PLAN D0102142",
-            "amount": "9000",
-            "balanceAccumulated": "999"
-        },
-        {
-            "id": 3,
-            "nameGoal": "PRUEBA JAV BCOM",
-            "amount": "30000",
-            "balanceAccumulated": "20000"
-        },
-        {
-            "id": 4,
-            "nameGoal": "LRKFH",
-            "amount": "38257",
-            "balanceAccumulated": "10000"
-        },
-        {
-            "id": 5,
-            "nameGoal": "LRKFH",
-            "amount": "38257",
-            "balanceAccumulated": "20000"
-        },
-        {
-            "id": 6,
-            "nameGoal": "LRKFH",
-            "amount": "38257",
-            "balanceAccumulated": "1222"
-        },
-        {
-            "id": 7,
-            "nameGoal": "CLIENTE5",
-            "amount": "6000",
-            "balanceAccumulated": "3212"
-        },
-        {
-            "id": 8,
-            "nameGoal": "MODIFY5",
-            "amount": "3000",
-            "balanceAccumulated": "987"
-        },
-        {
-            "id": 9,
-            "nameGoal": "BBVA PLAN D0102142",
-            "amount": "3000",
-            "balanceAccumulated": "0"
-        },
-        {
-            "id": 10,
-            "nameGoal": "PRUEBA JAV BCOM",
-            "amount": "30000",
-            "balanceAccumulated": "0"
-        },
-        {
-            "id": 11,
-            "nameGoal": "LRKFH",
-            "amount": "38257",
-            "balanceAccumulated": "212"
-        },
-        {
-            "id": 12,
-            "nameGoal": "LRKFH",
-            "amount": "38257",
-            "balanceAccumulated": "122"
-        },
-        {
-            "id": 13,
-            "nameGoal": "LRKFH",
-            "amount": "38257",
-            "balanceAccumulated": "111"
-        }
-    ]
+    "metasJson": [{
+        "id": 0,
+        "accountNumber": "",
+        "savingStatus": "ACTIVE",
+        "cardsList": [
+            "4152313302219949"
+        ],
+        "nameGoal": "Auto",
+        "amount": "6000.00",
+        "initDate": "2018-03-14",
+        "endDate": "2018-04-05",
+        "typeRule": "SCHED_PERCENT",
+        "percent": "15",
+        "roundAmount": "0",
+        "scheduleAmount": "2654.49",
+        "scheduleType": "BIWEEKLY",
+        "shaftAccount": "1534799461",
+        "balanceAccumulated": "2733.39"
+    },
+    {
+        "id": 1,
+        "accountNumber": "",
+        "savingStatus": "ACTIVE",
+        "cardsList": [
+            "4152313302219949"
+        ],
+        "nameGoal": "Ropa para la familia",
+        "amount": "7320.00",
+        "initDate": "2018-03-28",
+        "endDate": "2018-04-30",
+        "typeRule": "SCHED_PERCENT",
+        "percent": "15",
+        "roundAmount": "0",
+        "scheduleAmount": "2183.34",
+        "scheduleType": "BIWEEKLY",
+        "shaftAccount": "1534799461",
+        "balanceAccumulated": "2183.34"
+    },
+    {
+        "id": 2,
+        "accountNumber": "",
+        "savingStatus": "ACTIVE",
+        "cardsList": [
+            "4152313302219949"
+        ],
+        "nameGoal": "Casa en las lomas",
+        "amount": "3000.00",
+        "initDate": "2018-04-03",
+        "endDate": "2018-04-30",
+        "typeRule": "SCHED_PERCENT",
+        "percent": "15",
+        "roundAmount": "0",
+        "scheduleAmount": "2183.34",
+        "scheduleType": "BIWEEKLY",
+        "shaftAccount": "1534799461",
+        "balanceAccumulated": "2183.34"
+    },
+    {
+        "id": 3,
+        "accountNumber": "",
+        "savingStatus": "ACTIVE",
+        "cardsList": [
+            "4152313302219949"
+        ],
+        "nameGoal": "Ahorrar simplemente",
+        "amount": "30000.00",
+        "initDate": "2019-01-28",
+        "endDate": "2019-09-29",
+        "typeRule": "SCHED_PERCENT",
+        "percent": "15",
+        "roundAmount": "0",
+        "scheduleAmount": "2000.34",
+        "scheduleType": "BIWEEKLY",
+        "shaftAccount": "1534799461",
+        "balanceAccumulated": "0.00"
+    },
+    {
+        "id": 4,
+        "accountNumber": "",
+        "savingStatus": "ACTIVE",
+        "cardsList": [
+            "4815153004109199",
+            "4815160009393488",
+            "4931620405473597"
+        ],
+        "nameGoal": "LRKFH",
+        "amount": "38257.00",
+        "initDate": "2019-01-28",
+        "endDate": "2019-01-31",
+        "typeRule": "ROUNDING",
+        "percent": "0",
+        "roundAmount": "100",
+        "scheduleAmount": "0.00",
+        "scheduleType": "NONSCHEDULED",
+        "shaftAccount": "1534799461",
+        "balanceAccumulated": "0.00"
+    }]
 }
