@@ -20,7 +20,7 @@ router.use(function(req, res, next) {
 const movements_00 = require('../../mock/V01/movementsV01/movements0.json');
 const movements_01 = require('../../mock/V01/movementsV01/movements1.json');
 // V02/transactions/?secuenceNumber=1
-router.get('/V02/transactions', function(req, res, next) {
+router.get('/V02/transactions/', function(req, res, next) {
     var tsec = req.headers['tsec'];
 
     tsec = 'cualquiercosa';
@@ -29,10 +29,10 @@ router.get('/V02/transactions', function(req, res, next) {
 
     }else{    
     
-        if (req.query.c === '1') {
+        if (req.query.secuenceNumber === '1') {
             return res.json(movements_00);
 
-        } else if (req.query.c === '2') {
+        } else if (req.query.secuenceNumber === '2') {
             return res.json(movements_01);
 
         } 
