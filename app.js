@@ -6,9 +6,10 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var goalsRouter = require('./routes/goals');
+var movementsRouter = require('./routes/movements');
 
 var mainGoalsV1 = require('./routes/goals/mainGoalsV1');
-
+var mainMovementsV1 = require('./routes/movements/mainMovementsV1');
 var mainTsec = require('./routes/tsec/mainTsec');
 
 var app = express();
@@ -38,8 +39,10 @@ app.all('*', function(req, res, next) {
 // 
 app.use('/', indexRouter);
 app.use('/goals', goalsRouter);
+app.use('/movements', movementsRouter);
 
 app.use('/savingGoalAccounts', mainGoalsV1);
+app.use('/savingGoalAccounts', mainMovementsV1);
 app.use('/dashboard', mainTsec);
 
 
