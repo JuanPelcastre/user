@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "severity": "FATAL",
+    "http-status": 409,
+    "error-code": "BGE0426",
+    "error-message": "NO EXISTEN MOVIMIENTOS",
+    "consumer-request-id": "1039f31d-0229-4ff3-8de1-5b321b57aaf4",
+    "system-error-code": "functionalError",
+    "system-error-description": "Error funcional por defecto.",
+    "error-metainfo": {
+        "property": [{
+                "value": "NO EXISTEN",
+                "name": "v1"
+            },
+            {
+                "value": "MOVIMIENTOS",
+                "name": "v2"
+            }
+        ]
+    }
+}

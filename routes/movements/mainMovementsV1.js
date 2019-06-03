@@ -19,22 +19,27 @@ router.use(function(req, res, next) {
 // Saving Goals Movements
 const movements_00 = require('../../mock/V01/movementsV01/movements0.json');
 const movements_01 = require('../../mock/V01/movementsV01/movements1.json');
+const movements_02 = require('../../mock/V01/movementsV01/movements2.json');
+const movements_03 = require('../../mock/V01/movementsV01/movements3.json');
 // V02/transactions/?secuenceNumber=1
-router.get('/V02/transactions/', function(req, res, next) {
+router.get('/V02/transactions/:accountNumber', function(req, res, next) {
     var tsec = req.headers['tsec'];
 
-    tsec = 'cualquiercosa';
+    // tsec = 'cualquiercosa';
+    
     if (tsec === '' || tsec === 'null' || tsec === undefined) {
         return res.status(409).json({'error': 'tsec no valid o vacio'});
 
     }else{    
     
-        if (req.query.secuenceNumber === '1') {
+        if (req.params.accountNumber === '6138') {
             return res.json(movements_00);
-
-        } else if (req.query.secuenceNumber === '2') {
+        } else if (req.params.accountNumber === '7274') {
             return res.json(movements_01);
-
+        } else if (req.params.accountNumber === '7924') {
+            return res.json(movements_02);
+        } else if (req.params.accountNumber === '9405') { // Sin movimientos, mensaje no hay movimientos
+            return res.json(movements_03);
         } 
         return res.json({ "message": "La meta no existe" });
     }    

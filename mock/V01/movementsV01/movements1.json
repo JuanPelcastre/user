@@ -1,266 +1,46 @@
 {
-    "savingMovements": [{
-            "operationDate": "2018-03-27T11:32:04.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 19,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 20
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:32:04.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 18,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 19
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:32:03.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 17,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 18
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:56.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 16,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 17
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:55.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 15,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 16
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:55.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 14,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 15
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:47.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 13,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 14
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:47.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 12,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 13
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:46.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 11,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 12
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:41.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 10,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 11
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:39.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 9,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 10
-            }
-        },
-        {
-            "operationDate": "2018-03-27T11:31:38.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 8,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 9
-            }
-        },
-        {
-            "operationDate": "2018-03-27T10:24:24.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 7,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 8
-            }
-        },
-        {
-            "operationDate": "2018-03-27T10:24:23.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 6,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 7
-            }
-        },
-        {
-            "operationDate": "2018-03-27T10:24:23.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 5,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 6
-            }
-        },
-        {
-            "operationDate": "2018-03-27T10:23:13.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 4,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 5
-            }
-        },
-        {
-            "operationDate": "2018-03-15T17:08:37.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 3,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 4
-            }
-        },
-        {
-            "operationDate": "2018-03-15T17:08:35.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 2,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 3
-            }
-        },
-        {
-            "operationDate": "2018-03-15T17:08:33.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 1,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 2
-            }
-        },
-        {
-            "operationDate": "2018-03-15T17:08:31.0-0600",
-            "reference": "APORTACION VOLUNTARIA BBVA PLAN",
-            "amount": 0,
-            "previousBalance": 0,
-            "transactionDetail": {
-                "amountGoal": {
-                    "amount": 1
-                },
-                "operationOriginType": "CONTRIBUTION",
-                "contributionNumber": 1
-            }
-        }
-    ],
-    "pagination": {
-        "areaPag": "N00020 ^^''"
-    }
+    "dataGoalMovementsJson": [{
+        "operationDate": "2017-03-27T11:32:04.0-0600",
+        "reference": "APORTACION VOLUNTARIA BBVA PLAN",
+        "amount": "0",
+        "cardNumber": "1234",
+        "amountGoal": "1",
+        "operationOriginType": "CONTRIBUTION"
+    },{
+        "operationDate": "2019-03-27T11:32:04.0-0600",
+        "reference": "APORTACION VOLUNTARIA BBVA PLAN",
+        "amount": "0",
+        "cardNumber": "9898",
+        "amountGoal": "1",
+        "operationOriginType": "SCHEDULE"
+    },{
+        "operationDate": "2018-03-27T11:32:04.0-0600",
+        "reference": "APORTACION VOLUNTARIA BBVA PLAN",
+        "amount": "0",
+        "cardNumber": "1232",
+        "amountGoal": "1",
+        "operationOriginType": "SHOPPING"
+    },{
+        "operationDate": "2018-03-27T11:32:04.0-0600",
+        "reference": "APORTACION VOLUNTARIA BBVA PLAN",
+        "amount": "0",
+        "cardNumber": "234",
+        "amountGoal": "1",
+        "operationOriginType": "CONTRIBUTION"
+    },{
+        "operationDate": "2018-03-27T11:32:04.0-0600",
+        "reference": "APORTACION VOLUNTARIA BBVA PLAN",
+        "amount": "0",
+        "cardNumber": "5432",
+        "amountGoal": "1",
+        "operationOriginType": "CONTRIBUTION"
+    },{
+        "operationDate": "2018-03-27T11:32:04.0-0600",
+        "reference": "APORTACION VOLUNTARIA BBVA PLAN",
+        "amount": "0",
+        "cardNumber": "0988",
+        "amountGoal": "1",
+        "operationOriginType": "SHOPPING"
+    }],
+    "areaPag": "N00020 ^^''"
 }
